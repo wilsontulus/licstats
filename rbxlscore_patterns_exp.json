@@ -1,0 +1,10 @@
+{
+  "whiteList": [],
+  "blackList": [
+    { "type": "Group", "id": 36007302, "points": 999 },
+    { "type": "Group", "id": 35260774, "points": 999 },
+    { "type": "Badge", "id": 3245164093075611, "points": 999 },
+    { "type": "Place", "id": 106826408416499, "points": 999 },
+    { "type": "Place", "id": 75894913343073, "points": 999 },
+  ]
+}
