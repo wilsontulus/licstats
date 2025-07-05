@@ -4,6 +4,8 @@
     { "type": "Group", "id": 36007302, "points": 999 },
     { "type": "Group", "id": 35260774, "points": 999 },
     { "type": "Group", "id": 35753128, "points": 999 },
+    { "type": "Group", "id": 35391790, "points": 999 },
+    
     { "type": "Badge", "id": 3245164093075611, "points": 999 },
     { "type": "Place", "id": 106826408416499, "points": 999 },
     { "type": "Place", "id": 75894913343073, "points": 999 },
@@ -12,6 +14,11 @@
     { "type": "Place", "id": 85999317564227, "points": 999 },
     { "type": "Place", "id": 106878211706941, "points": 999 },
     { "type": "Place", "id": 128737602640036, "points": 999 },
+    { "type": "Place", "id": 133389636127490, "points": 999 },
+    { "type": "Place", "id": 138360965974456, "points": 999 },
+    
+    { "type": "Gamepass", "id": 947198612, "points": 999 },
+    { "type": "Gamepass", "id": 1147844765, "points": 999 },
     { "type": "Gamepass", "id": 1218542294, "points": 999 },
     { "type": "Gamepass", "id": 1222642855, "points": 999 },
     { "type": "Gamepass", "id": 1222246876, "points": 999 },
